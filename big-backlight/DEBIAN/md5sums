@@ -1,0 +1,4 @@
+ad8f9e380fe2fc60e90ca108a8d7824f  etc/init/bigbacklightsave.conf
+11e697ed0d53cacf62c5eee468fe4f9b  etc/init/bigbacklightrestore.conf
+3a6dd690a49d72bd116e664a9ead0bfc  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
